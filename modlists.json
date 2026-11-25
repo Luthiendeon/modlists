@@ -1,1 +1,29 @@
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "Garuda",
+    "description": "Garuda is a heavily customized, next-generation Skyrim Anniversary Edition (1.6.1170) Wabbajack modlist engineered to transform Tamriel into a modern action RPG. Combining full Physically Based Rendering (PBR) textures, neural upscaling, responsive skill-based combat, immersive survival mechanics, and massive new lands—alongside curated adult (NSFW) frameworks—Garuda delivers a cohesive, high-fidelity experience right out of the box.",
+    "author": "Luthiendeon",
+    "maintainers": ["github/Luthiendeon"],
+    "game": "skyrimspecialedition",
+    "tags": ["NSFW", "Steam"],
+    "nsfw": true,
+    "links": {
+      "image": "https://github.com/Luthiendeon/modlists/blob/main/The%20Elder%20Scrolls%20V%20%20Skyrim%20Special%20Edition%20Screenshot%202026.11.05%20-%2016.59.30.40.webp?raw=true",
+      "readme": "https://www.nexusmods.com/skyrimspecialedition/articles/12638",
+      "download": "https://authored-files.wabbajack.org/Garuda.wabbajack_ef8fb09a-9551-4fa2-8167-af1ce4a4bcc1",
+      "machineURL": "Garuda",
+      
+    },
+    "download_metadata": {
+      "Hash": "3l9gK6rpydA=",
+      "Size": 6296613692,
+      "NumberOfArchives": 1731,
+      "SizeOfArchives": 193741857697,
+      "NumberOfInstalledFiles": 861946,
+      "SizeOfInstalledFiles": 398099292709
+    },
+    "version": "1.0.0"
+  }
+]
 
