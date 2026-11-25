@@ -6,7 +6,7 @@
     "author": "Luthiendeon",
     "maintainers": ["github/Luthiendeon"],
     "game": "skyrimspecialedition",
-    "tags": ["NSFW", "Steam"],
+    "tags": ["Steam"],
     "nsfw": true,
     "links": {
       "image": "https://raw.githubusercontent.com/Luthiendeon/modlists/main/Garuda.webp",
