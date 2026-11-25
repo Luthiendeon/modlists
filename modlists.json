@@ -9,7 +9,7 @@
     "tags": ["Steam"],
     "nsfw": true,
     "links": {
-      "image": "https://raw.githubusercontent.com/Luthiendeon/modlists/main/Garuda.webp",
+      "image": "https://github.com/Luthiendeon/modlists/blob/main/garuda.webp?raw=true",
       "readme": "https://www.nexusmods.com/skyrimspecialedition/articles/12638",
       "download": "https://authored-files.wabbajack.org/Garuda.wabbajack_ef8fb09a-9551-4fa2-8167-af1ce4a4bcc1",
       "machineURL": "Garuda"
